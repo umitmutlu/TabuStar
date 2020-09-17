@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971654050584",
+    "firebase_url": "https://tabustar-60a95.firebaseio.com",
+    "project_id": "tabustar-60a95",
+    "storage_bucket": "tabustar-60a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971654050584:android:121e111c2e22822725646d",
+        "android_client_info": {
+          "package_name": "com.example.ilk_projem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971654050584-o3mrb8i1f5jdt827s55h42osl2dgm4a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1VFjej3VR9dI7UoPl5H4H2wd0RdEb1iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971654050584-o3mrb8i1f5jdt827s55h42osl2dgm4a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
